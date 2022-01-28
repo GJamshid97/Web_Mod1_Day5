@@ -1,4 +1,4 @@
-console.log("\n----------Switch Case----------")
+
 let language = "FR" // it, fr, ....
 
 let greeting
